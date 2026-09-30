@@ -2,8 +2,8 @@ import numpy as np
 import pytest
 from scipy import integrate, special
 
-from antigravity.constants import MU0
-from antigravity.magnetics import CylinderMagnet, cel, cylinder_axis_field
+from loophole.constants import MU0
+from loophole.magnetics import CylinderMagnet, cel, cylinder_axis_field
 
 
 def _loop_field(radius, z0, current, rho, z):

@@ -1,4 +1,4 @@
-"""Physics tests for the levitator model (benchmark: antigravity/benchmark.py)."""
+"""Physics tests for the levitator model (benchmark: loophole/benchmark.py)."""
 
 import math
 from dataclasses import replace
@@ -6,11 +6,11 @@ from dataclasses import replace
 import numpy as np
 import pytest
 
-from antigravity.benchmark import (MEASURED_DISTANCE_BELOW_LIFTER, MEASURED_STABILITY_LIMIT_GAP,
+from loophole.benchmark import (MEASURED_DISTANCE_BELOW_LIFTER, MEASURED_STABILITY_LIMIT_GAP,
                                    simon_geim_device)
-from antigravity.constants import MU0
-from antigravity.levitator import Levitator, balance
-from antigravity.magnetics import CylinderMagnet
+from loophole.constants import MU0
+from loophole.levitator import Levitator, balance
+from loophole.magnetics import CylinderMagnet
 
 
 @pytest.fixture(scope="module")
@@ -92,7 +92,7 @@ def test_plate_energy_matches_image_dipole_far_away():
 
 
 def test_simulation_conserves_energy_and_stays_trapped(device):
-    from antigravity.levitator import FastEnergy, simulate
+    from loophole.levitator import FastEnergy, simulate
     q0 = [3e-4, 0.0, 2e-4, 0.0, 0.0]
     r = simulate(device, q0=q0, t_end=0.5)
     assert not r["touched"]

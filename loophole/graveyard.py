@@ -4,7 +4,7 @@ Each function sizes one idea using published experimental limits and returns a
 Route with the key numbers. Where a choice exists, the numbers are set to be
 *generous* to the idea, so each dead end holds with room to spare.
 
-Run ``python -m antigravity.graveyard`` for the summary table.
+Run ``python -m loophole.graveyard`` for the summary table.
 """
 
 from __future__ import annotations
@@ -212,7 +212,7 @@ def the_loophole() -> Route:
             "can hold a magnet stably. Loopholes: superconductors (need cryogenics), "
             "spin (Levitron, needs spin-up), feedback (needs power), and diamagnetism "
             "(Braunbek 1939), the only one that is passive, room-temperature and "
-            "zero-power. The device in antigravity/levitator.py builds on that one."
+            "zero-power. The device in loophole/levitator.py builds on that one."
         ),
         alive=True,
     )
