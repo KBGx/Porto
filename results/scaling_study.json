@@ -1,0 +1,248 @@
+{
+ "3.0": [
+  {
+   "lifter_kg": 0.048263887384036655,
+   "lifter": "N42 D25.40x12.70mm",
+   "payload_g": 3.9931688520538615,
+   "best": {
+    "lifter": "N42 D25.40x12.70mm",
+    "floater": "N52 D12.70x6.35mm",
+    "gap_mm": 0.5,
+    "payload_g": 3.9931688520538615,
+    "floater_g": 6.032985923004582,
+    "lifter_to_floater_mm": 70.91453022240401,
+    "thermal_K": 3.0069680286350184,
+    "lifter_window_mm": 0.29569101693446764,
+    "tilt_shift_mm": 0.5535699650932846,
+    "f_vertical_Hz": 1.8234181221610102,
+    "f_lateral_Hz": 1.9788603190281198,
+    "f_min_Hz": 1.823418122161008,
+    "feasible": true
+   }
+  },
+  {
+   "lifter_kg": 0.38611109907229324,
+   "lifter": "N42 D50.80x25.40mm",
+   "payload_g": 8.014790448081031,
+   "best": {
+    "lifter": "N42 D50.80x25.40mm",
+    "floater": "N52 D19.05x4.76mm",
+    "gap_mm": 0.5,
+    "payload_g": 8.014790448081031,
+    "floater_g": 10.18066374507023,
+    "lifter_to_floater_mm": 114.1465248015744,
+    "thermal_K": 3.0033363543941514,
+    "lifter_window_mm": 0.4815822754221296,
+    "tilt_shift_mm": 0.9211489895170193,
+    "f_vertical_Hz": 1.8796739363188149,
+    "f_lateral_Hz": 1.5340392062785912,
+    "f_min_Hz": 1.5326190215529176,
+    "feasible": true
+   }
+  },
+  {
+   "lifter_kg": 3.088888792578346,
+   "lifter": "N42 D101.60x50.80mm",
+   "payload_g": 13.438913862666647,
+   "best": {
+    "lifter": "N42 D101.60x50.80mm",
+    "floater": "N52 D19.05x4.76mm",
+    "gap_mm": 0.5,
+    "payload_g": 13.438913862666647,
+    "floater_g": 10.18066374507023,
+    "lifter_to_floater_mm": 172.57976410589097,
+    "thermal_K": 3.002276526921944,
+    "lifter_window_mm": 0.7622169778902897,
+    "tilt_shift_mm": 1.4792914685095688,
+    "f_vertical_Hz": 1.9484345519077515,
+    "f_lateral_Hz": 1.2105271183330113,
+    "f_min_Hz": 1.2101893079128963,
+    "feasible": true
+   }
+  },
+  {
+   "lifter_kg": 24.711110340626767,
+   "lifter": "N42 D203.20x101.60mm",
+   "payload_g": 20.72322098242971,
+   "best": {
+    "lifter": "N42 D203.20x101.60mm",
+    "floater": "N52 D25.40x6.35mm",
+    "gap_mm": 0.5,
+    "payload_g": 20.72322098242971,
+    "floater_g": 24.13194369201833,
+    "lifter_to_floater_mm": 298.38510036427914,
+    "thermal_K": 3.0004068087572753,
+    "lifter_window_mm": 1.3635439744111675,
+    "tilt_shift_mm": 2.666653243475616,
+    "f_vertical_Hz": 2.017912704149563,
+    "f_lateral_Hz": 0.9016087673490306,
+    "f_min_Hz": 0.9014347718122965,
+    "feasible": true
+   }
+  }
+ ],
+ "1.0": [
+  {
+   "lifter_kg": 0.048263887384036655,
+   "lifter": "N42 D25.40x12.70mm",
+   "payload_g": 5.845986543278357,
+   "best": {
+    "lifter": "N42 D25.40x12.70mm",
+    "floater": "N52 D19.05x4.76mm",
+    "gap_mm": 0.5,
+    "payload_g": 5.845986543278357,
+    "floater_g": 10.18066374507023,
+    "lifter_to_floater_mm": 71.55968288504195,
+    "thermal_K": 1.0106981865140252,
+    "lifter_window_mm": 0.10684263160342336,
+    "tilt_shift_mm": 0.5574502415413634,
+    "f_vertical_Hz": 0.5283076156229939,
+    "f_lateral_Hz": 1.9719611078387622,
+    "f_min_Hz": 0.5283076156229949,
+    "feasible": true
+   }
+  },
+  {
+   "lifter_kg": 0.38611109907229324,
+   "lifter": "N42 D50.80x25.40mm",
+   "payload_g": 13.212176822646267,
+   "best": {
+    "lifter": "N42 D50.80x25.40mm",
+    "floater": "N52 D25.40x6.35mm",
+    "gap_mm": 0.5,
+    "payload_g": 13.212176822646267,
+    "floater_g": 24.13194369201833,
+    "lifter_to_floater_mm": 118.69215456037777,
+    "thermal_K": 1.0032961227530295,
+    "lifter_window_mm": 0.17011641860917362,
+    "tilt_shift_mm": 0.9510813741955774,
+    "f_vertical_Hz": 0.8934771922378715,
+    "f_lateral_Hz": 1.5097066253740483,
+    "f_min_Hz": 0.8934771922378736,
+    "feasible": true
+   }
+  },
+  {
+   "lifter_kg": 3.088888792578346,
+   "lifter": "N42 D101.60x50.80mm",
+   "payload_g": 28.808852837331603,
+   "best": {
+    "lifter": "N42 D101.60x50.80mm",
+    "floater": "N52 D25.40x6.35mm",
+    "gap_mm": 0.5,
+    "payload_g": 28.808852837331603,
+    "floater_g": 24.13194369201833,
+    "lifter_to_floater_mm": 175.35776311311008,
+    "thermal_K": 1.0066177708221313,
+    "lifter_window_mm": 0.2612173542132024,
+    "tilt_shift_mm": 1.4966813386903024,
+    "f_vertical_Hz": 1.0117547082819678,
+    "f_lateral_Hz": 1.2034740422675125,
+    "f_min_Hz": 1.0117547082819685,
+    "feasible": true
+   }
+  },
+  {
+   "lifter_kg": 24.711110340626767,
+   "lifter": "N42 D203.20x101.60mm",
+   "payload_g": 53.020253671077,
+   "best": {
+    "lifter": "N42 D203.20x101.60mm",
+    "floater": "N52 D38.10x9.52mm",
+    "gap_mm": 0.5,
+    "payload_g": 53.020253671077,
+    "floater_g": 81.44530996056184,
+    "lifter_to_floater_mm": 309.44982942336657,
+    "thermal_K": 1.003516457554644,
+    "lifter_window_mm": 0.46982187094563366,
+    "tilt_shift_mm": 2.7341635030873044,
+    "f_vertical_Hz": 1.117076796766821,
+    "f_lateral_Hz": 0.8904082153264862,
+    "f_min_Hz": 0.8899941645152725,
+    "feasible": true
+   }
+  }
+ ],
+ "0.3": [
+  {
+   "lifter_kg": 0.048263887384036655,
+   "lifter": "N42 D25.40x12.70mm",
+   "payload_g": 5.901234756729844,
+   "best": {
+    "lifter": "N42 D25.40x12.70mm",
+    "floater": "N52 D12.70x6.35mm",
+    "gap_mm": 0.5,
+    "payload_g": 5.901234756729844,
+    "floater_g": 6.032985923004582,
+    "lifter_to_floater_mm": 67.52360410619218,
+    "thermal_K": 0.9081080536399052,
+    "lifter_window_mm": 0.09223065992028628,
+    "tilt_shift_mm": 0.5306253425307622,
+    "f_vertical_Hz": 0.507354610762878,
+    "f_lateral_Hz": 2.0211912306788644,
+    "f_min_Hz": 0.5073546107628724,
+    "feasible": true
+   }
+  },
+  {
+   "lifter_kg": 0.38611109907229324,
+   "lifter": "N42 D50.80x25.40mm",
+   "payload_g": 15.369266916139535,
+   "best": {
+    "lifter": "N42 D50.80x25.40mm",
+    "floater": "N52 D25.40x6.35mm",
+    "gap_mm": 0.5,
+    "payload_g": 15.369266916139535,
+    "floater_g": 24.13194369201833,
+    "lifter_to_floater_mm": 116.78058619260807,
+    "thermal_K": 0.6355577290158149,
+    "lifter_window_mm": 0.1083031579602781,
+    "tilt_shift_mm": 0.9383136721833195,
+    "f_vertical_Hz": 0.511072479422593,
+    "f_lateral_Hz": 1.519943263992614,
+    "f_min_Hz": 0.5110724794226078,
+    "feasible": true
+   }
+  },
+  {
+   "lifter_kg": 3.088888792578346,
+   "lifter": "N42 D101.60x50.80mm",
+   "payload_g": 35.56905296161518,
+   "best": {
+    "lifter": "N42 D101.60x50.80mm",
+    "floater": "N52 D25.40x6.35mm",
+    "gap_mm": 0.5,
+    "payload_g": 35.56905296161518,
+    "floater_g": 24.13194369201833,
+    "lifter_to_floater_mm": 169.0296574516408,
+    "thermal_K": 0.47690390588066117,
+    "lifter_window_mm": 0.12221188079819179,
+    "tilt_shift_mm": 1.4563992254924698,
+    "f_vertical_Hz": 0.5002245743519788,
+    "f_lateral_Hz": 1.2200037893894111,
+    "f_min_Hz": 0.5002245743519781,
+    "feasible": true
+   }
+  },
+  {
+   "lifter_kg": 24.711110340626767,
+   "lifter": "N42 D203.20x101.60mm",
+   "payload_g": 91.62723449953114,
+   "best": {
+    "lifter": "N42 D203.20x101.60mm",
+    "floater": "N52 D38.10x9.52mm",
+    "gap_mm": 0.5,
+    "payload_g": 91.62723449953114,
+    "floater_g": 81.44530996056184,
+    "lifter_to_floater_mm": 285.6056156200101,
+    "thermal_K": 0.3263274729653709,
+    "lifter_window_mm": 0.14572583132584224,
+    "tilt_shift_mm": 2.5883580768041963,
+    "f_vertical_Hz": 0.5008572999888543,
+    "f_lateral_Hz": 0.9151435450341103,
+    "f_min_Hz": 0.500857299988854,
+    "feasible": true
+   }
+  }
+ ]
+}
